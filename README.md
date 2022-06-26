@@ -7,6 +7,7 @@ Paper is under review.
 <p align="left">
   <img src="multi-object motion estimation.png" width = "480" height = "280" />
 </p>
+
 <p align="left">
   <img src="MOMA_SLAM.gif" width = "480" height = "280" />
 </p>
